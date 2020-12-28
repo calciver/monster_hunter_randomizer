@@ -1,6 +1,6 @@
 # monhun_random
 
-Monster Hunter Randomizer
+Monster Hunter Randomizer app that was done over the Christmas break. A fun side project to review Flutter/Dart for mobile app development again.
 
 ## Getting Started
 
